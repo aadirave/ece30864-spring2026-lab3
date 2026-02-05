@@ -4,3 +4,5 @@ a) Pros:
    Cons:
 				- Flexibility leads to the possibility of scope creep, where nobody can decide on what the project really is
 				- Nobody really understands what a story point is
+b)The product owner defines the what and why for a project by keeping track of features and backlogs, and the scrum master tries to remove blockers which can be technical or organizational, and makes sure everyone sticks to the scrum principles.
+
