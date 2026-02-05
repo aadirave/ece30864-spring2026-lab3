@@ -1,0 +1,6 @@
+a) Pros:
+				- Faster time to market, because development is broken into shorter, easier goals
+				- Reduced risk, because detecting issues is easier with short sprint timelines
+   Cons:
+				- Flexibility leads to the possibility of scope creep, where nobody can decide on what the project really is
+				- Nobody really understands what a story point is
