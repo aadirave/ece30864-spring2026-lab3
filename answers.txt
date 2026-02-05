@@ -4,5 +4,16 @@ a) Pros:
    Cons:
 				- Flexibility leads to the possibility of scope creep, where nobody can decide on what the project really is
 				- Nobody really understands what a story point is
+
 b)The product owner defines the what and why for a project by keeping track of features and backlogs, and the scrum master tries to remove blockers which can be technical or organizational, and makes sure everyone sticks to the scrum principles.
 
+c) Sprint Planning
+   - Kicks off the sprint
+	 - Product owner and team agree on the high-level objective
+	 - Devs select tasks from the backlog and break them down
+	 Daily Scrum
+   - Short daily meeting for everyone to plan for the next day
+	 - Topics are progress reports and identifying blockers
+	 Sprint Review
+	 - Everyone demonstrates their work and shows what features/issues were resolved
+	 - Based on feedback, the product owner and team will decide how to proceed with the backlog
